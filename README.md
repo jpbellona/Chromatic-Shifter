@@ -5,7 +5,7 @@ The range of the plugin is two octaves below and two octaves above the original 
 A window delay (5ms to 50ms set outside playback) changes audio quality at more extreme settings. Default is 20ms.
 
 Audio example
-[Example](chromashift_audio-example.mp3)
+![Audio Example](chromashift_audio-example.mp3)
 
 Here is a screenshot of the plugin
 ![Chromatic Shift plugin](Chromatic_Shift_plugin.png)
